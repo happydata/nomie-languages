@@ -1,0 +1,7 @@
+{
+	"TIME_FORMAT" : "h:mm a",
+	"DATE_FORMAT_LONG" : "ddd MMM Do YYYY",
+	"DATE_FORMAT_SHORT" : "DD/MM/YYYY",
+	"DATE_TIME_FORMAT_LONG" : "ddd MMM Do YYYY h:mm a",
+	"DATE_TIME_FORMAT_SHORT" : "DD/MM/YYYY h:mma"
+}
