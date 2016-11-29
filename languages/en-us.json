@@ -130,5 +130,18 @@
     "BOARD_NOW_DESCRIPTION": "Trackers used right now",
     "BOARD_POPULAR": "Popular",
     "BOARD_POPULAR_DESCRIPTION": "Most commonly used Trackers",
-    "NOTES_TITLE": "Notes"
+    "NOTES_TITLE": "Notes",
+    "SETTINGS" : "Settings",
+    "FLAVOR" : "Flavor",
+    "BUTTON_SIZE" : "Button Size",
+    "SHOW_TODAY_CHART" : "Show Today Chart",
+    "SHOW_TAB_LABELS" : "Show Tab Labels",
+    "GEO_LOCATION" : "Geo Location",
+    "DISABLE_MESSAGES" : "Disabled Messages",
+    "USER_INTERFACE" : "User Interface",
+    "SMALL" : "Small",
+    "MEDIUM" : "Medium",
+    "LARGE" : "Large",
+    "SELECT" : "Select",
+    "GENERATE_NEW_KEYS" : "Generate New Keys"
 }
