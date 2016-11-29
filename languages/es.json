@@ -68,7 +68,21 @@
     "REMOVE": "Retirar",
     "DESTROY": "Destruir",
     "DELETE_EVENT": "Eliminar evento",
-    "ADD_TO_PAST": "Add to Past",
+    
+    "SAVE" : "Salvar"
+    "MORE" : "Más",
+    "LESS" : "Menos",
+    "CLOSE" : "Cerca",
+    "EVENTS_TODAY" : "Eventos Hoy",
+    "ADD_TO_PAST": "Añadir a Pasado",
+    "WRITE_NOTE" : "Toma nota",
+    "VIEW_STATS" : "Ver datos",
+    "PROMPT_FOR_NOTE" : "Solicitar nota",
+    "PROMPT_FOR_NOTE_DESCRIPTION" : "Iniciar automáticamente una nota",
+    "WHEN_INPUT_IS" : "La entrada es igual",
+    "ADD_CONDITION" : "Agregar condición",
+    "UNIT_OF_MEASURE" : "Unidad de medida",
+    
     "REORDER": "Reordenar",
     "MENU_TODAY_LABEL": "Hoy",
     "MENU_NOTES_LABEL": "Notas",
