@@ -130,5 +130,18 @@
     "BOARD_NOW_DESCRIPTION": "rastreadores utilizados en este momento",
     "BOARD_POPULAR": "Popular",
     "BOARD_POPULAR_DESCRIPTION": "Rastreadores más utilizados",
-    "NOTES_TITLE": "Notas"
+    "NOTES_TITLE": "Notas",
+    "SETTINGS" : "Ajustes",
+    "FLAVOR" : "Sabor",
+    "BUTTON_SIZE" : "Tamaño del botón",
+    "SHOW_TODAY_CHART" : "Mostrar el gráfico de hoy",
+    "SHOW_TAB_LABELS" : "Show Tab Labels",
+    "GEO_LOCATION" : "Ubicación geográfica",
+    "DISABLE_MESSAGES" : "Mensajes desactivados",
+    "USER_INTERFACE" : "Interfaz de usuario",
+    "SMALL" : "Pequeña",
+    "MEDIUM" : "Medio",
+    "LARGE" : "Grande",
+    "SELECT" : "Seleccionar",
+    "GENERATE_NEW_KEYS" : "Generar nuevas claves"
 }
