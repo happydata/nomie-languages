@@ -1,0 +1,11 @@
+{
+  "name": "nomie-languages",
+  "version": "2.0.0",
+  "description": "Language Files for Nomie Translations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Happy Data <support@happydata.org> (nomie)",
+  "license": "MIT"
+}
