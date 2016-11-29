@@ -5,6 +5,7 @@
     "SORT": "Sort",
     "DELETE": "Delete",
     "RENAME": "Rename",
+    "LANGUAGE" : "Language",
     "TYPE_SINGLE_TAP": "Single Tap",
     "TYPE_NUMERIC": "Number Entry",
     "TYPE_RANGE": "Slider",
