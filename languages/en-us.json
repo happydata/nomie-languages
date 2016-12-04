@@ -158,5 +158,6 @@
     "MEDIUM" : "Medium",
     "LARGE" : "Large",
     "SELECT" : "Select",
-    "GENERATE_NEW_KEYS" : "Generate New Keys"
+    "GENERATE_NEW_KEYS" : "Generate New Keys",
+    "INSTALL_AFTERMARKET_APP" : "Install Aftermarket App"
 }
