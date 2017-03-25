@@ -15,7 +15,7 @@
     "TYPE_NUMERIC_DESCRIPTION": "Enter from a keypad",
     "TYPE_RANGE_DESCRIPTION": "Select from a sliding range",
     "TYPE_TIMER_DESCRIPTION": "Tap to start, tap to stop",
-    "TYPE_BOOLEAN_DESCRIPTION": "A simple boolean tracker",
+    "TYPE_BOOLEAN_DESCRIPTION": "Daily toggle switch",
     "MY_CLOUD_APPS": "My Cloud Apps",
     "HOW_ARE_YOU_DOING?": "How are you doing?",
     "BROWSE": "Browse",
