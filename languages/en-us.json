@@ -163,5 +163,7 @@
     "LARGE" : "Large",
     "SELECT" : "Select",
     "GENERATE_NEW_KEYS" : "Generate New Keys",
-    "INSTALL_AFTERMARKET_APP" : "Install Aftermarket App"
+    "INSTALL_AFTERMARKET_APP" : "Install Aftermarket App",
+    "Disable_Auto_Run" : "Pause Auto Running Apps",
+    "Disable_Auto_Run_Description" : "Cloud Apps auto-run feature disabled"
 }
