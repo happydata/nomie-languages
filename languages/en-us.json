@@ -31,7 +31,7 @@
     "RESTORE_FROM_BACKUP": "Restore from Backup",
     "BACKUP_EVERY_24HRS": "Backup Every 24hrs",
     "BACKUP_TO_DROPBOX_DESCRIPTION": "Enable Dropbox backups to ensure you never lose your data.",
-    "ALL_MY_TRACKERS": "All My Trackers",
+    "ALL_MY_TRACKERS": "My Tracker Library",
     "NOT_FOR_MEDICAL_ADVICE": "<strong>Nomie is for informational purposes only</strong>. Please consult your healthcare provider for guidance on specific medical conditions.",
     "HAVE_A_SETUP_CODE": "Have a Provider Code?",
     "SETUP_CODE": "Provider Code",
