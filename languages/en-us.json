@@ -165,5 +165,6 @@
     "GENERATE_NEW_KEYS" : "Generate New Keys",
     "INSTALL_AFTERMARKET_APP" : "Install Aftermarket App",
     "Disable_Auto_Run" : "Pause Auto Running Apps",
-    "Disable_Auto_Run_Description" : "Auto-run feature disabled"
+    "Disable_Auto_Run_Description" : "Auto-run feature disabled",
+    "Search_Trackers" : "Search Trackers"
 }
