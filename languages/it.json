@@ -166,5 +166,9 @@
     "GENERATE_NEW_KEYS" : "Genera Nuove Chiavi",
     "INSTALL_AFTERMARKET_APP" : "Installa App Aftermarket",
     "Disable_Auto_Run" : "Metti in Pausa Auto Running App",
-    "Disable_Auto_Run_Description" : "Auto-run disabilitato"
+    "Disable_Auto_Run_Description" : "Auto-run disabilitato",
+    "Search_Trackers" : "Cerca Tracker",
+    "Week" : "Settimana",
+    "Day" : "Giorno",
+    "Month" : "Mese"
 }
