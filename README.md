@@ -1,3 +1,5 @@
+# DEPRECATED - these docs are considered usely for the current version https://nomie.app - for the latest check out https://github.com/open-nomie/nomie
+
 # Nomie Languages!
 
 This repo will power the languages available to [Nomie](https://nomie.io).
